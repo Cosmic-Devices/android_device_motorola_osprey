@@ -28,3 +28,6 @@ PRODUCT_NAME := cos_osprey
 PRODUCT_BRAND := Motorola
 PRODUCT_MANUFACTURER := Motorola
 PRODUCT_RELEASE_NAME := osprey
+
+#Official
+COS_RELEASE := true
